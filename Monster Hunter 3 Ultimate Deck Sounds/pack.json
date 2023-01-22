@@ -1,0 +1,12 @@
+{
+  "name": "Monster Hunter 3 Ultimate",
+  "description": "Sounds are from MH3U, by Capcom",
+  "author": "LoveTrousers",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [
+ 
+  ],
+  "mappings": {}
+}
